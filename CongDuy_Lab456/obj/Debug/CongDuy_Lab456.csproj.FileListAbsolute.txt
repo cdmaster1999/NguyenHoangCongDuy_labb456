@@ -77,8 +77,9 @@ c:\users\administrator\documents\visual studio 2015\Projects\CongDuy_Lab456\Cong
 c:\users\administrator\documents\visual studio 2015\Projects\CongDuy_Lab456\CongDuy_Lab456\bin\Microsoft.Owin.Security.Google.xml
 c:\users\administrator\documents\visual studio 2015\Projects\CongDuy_Lab456\CongDuy_Lab456\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\administrator\documents\visual studio 2015\Projects\CongDuy_Lab456\CongDuy_Lab456\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\administrator\documents\visual studio 2015\Projects\CongDuy_Lab456\CongDuy_Lab456\obj\Debug\CongDuy_Lab456.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2015\Projects\CongDuy_Lab456\CongDuy_Lab456\obj\Debug\CongDuy_Lab456.dll
 c:\users\administrator\documents\visual studio 2015\Projects\CongDuy_Lab456\CongDuy_Lab456\obj\Debug\CongDuy_Lab456.pdb
 c:\users\administrator\documents\visual studio 2015\Projects\CongDuy_Lab456\CongDuy_Lab456\obj\Debug\CongDuy_Lab456.Migrations.InitialModel.resources
 c:\users\administrator\documents\visual studio 2015\Projects\CongDuy_Lab456\CongDuy_Lab456\obj\Debug\CongDuy_Lab456.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2015\Projects\CongDuy_Lab456\CongDuy_Lab456\obj\Debug\CongDuy_Lab456.Migrations.CreateTableCourse.resources
+C:\Users\Administrator\documents\visual studio 2015\Projects\CongDuy_Lab456\CongDuy_Lab456\obj\Debug\CongDuy_Lab456.Migrations.PopulateCategoryTable.resources
