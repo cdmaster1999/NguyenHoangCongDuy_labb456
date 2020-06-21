@@ -9,6 +9,7 @@ namespace CongDuy_Lab456.ViewModels
 {
     public class CourseViewModel
     {
+
         [Required]
         public string Place { get; set; }
         [Required]
