@@ -9,7 +9,7 @@ namespace CongDuy_Lab456.ViewModels
 {
     public class CourseViewModel
     {
-
+        public int Id { get; set; }
         [Required]
         public string Place { get; set; }
         [Required]
@@ -21,6 +21,11 @@ namespace CongDuy_Lab456.ViewModels
         [Required]
         public byte Category { get; set; }
         public IEnumerable<Category> Categories { get; set; }
+        public string Heading { get; set; }
+        public string Action
+        {
+            get { return (Id != 0) ? "Update" : "Create"; }
+        }
         
         public DateTime GetDateTime()
         {

@@ -177,3 +177,4 @@ C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\bin\System
 C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\bin\System.Web.Http.xml
 C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\bin\System.Web.Http.WebHost.xml
 C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\obj\Debug\CongDuy_Lab456.Migrations.AddFollowingsTable.resources
+C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\obj\Debug\CongDuy_Lab456.Migrations.AddIsCanceledColumnToCourse.resources
