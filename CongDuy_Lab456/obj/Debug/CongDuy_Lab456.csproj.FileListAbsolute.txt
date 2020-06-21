@@ -169,4 +169,11 @@ C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\obj\Debug\
 C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\obj\Debug\CongDuy_Lab456.dll
 C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\obj\Debug\CongDuy_Lab456.pdb
 C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\obj\Debug\CongDuy_Lab456.Migrations.AddNameColumnToApplicationUser.resources
+C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\obj\Debug\CongDuy_Lab456.Migrations.AddAttendance.resources
+C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\bin\System.Net.Http.Formatting.dll
+C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\bin\System.Web.Http.dll
+C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\bin\System.Web.Http.WebHost.dll
+C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\bin\System.Net.Http.Formatting.xml
+C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\bin\System.Web.Http.xml
+C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\bin\System.Web.Http.WebHost.xml
 C:\Users\Admin\Source\Repos\NguyenHoangCongDuy_labb456\CongDuy_Lab456\obj\Debug\CongDuy_Lab456.csprojResolveAssemblyReference.cache
